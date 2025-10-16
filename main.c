@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello, World!");
+    printf("The maximum value is $655");
     return 0;
 }
